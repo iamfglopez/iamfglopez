@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @iamfglopez
+- 👋 Hi, I’m F.G. Lopez
 - 👀 I’m interested in Linux, python, and other technologies!
 - 🌱 I’m currently learning Python API Development
 - 💞️ I’m looking to collaborate on ...
